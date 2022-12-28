@@ -5,7 +5,7 @@
 - 💻 Most of the time I'm writing on Python and PHP
 - 📧 Shoot me ad email to alistar.neron@gmail.com
 
-*My CV:* [https://vkrasnoperov.me](https://vkrasnoperov.me)
+**My CV:** [https://vkrasnoperov.me](https://vkrasnoperov.me)
 
 # Here some badges for ya
 <div class="badges">
