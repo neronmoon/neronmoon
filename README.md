@@ -1,11 +1,11 @@
 # Hi, I'm Vitaliy 👋
 
-- I live in Gdansk, Poland
-- I'm backend engineer/DevOps
-- Most of the time I'm writing on Python and PHP
-- Send me
+- 🇵🇱 I live in Gdansk, Poland
+- 🤖 I'm backend engineer/DevOps
+- 💻 Most of the time I'm writing on Python and PHP
+- 📧 Shoot me ad email to alistar.neron@gmail.com
 
-*My CV:* (https://vkrasnoperov.me)[https://vkrasnoperov.me]
+*My CV:* [https://vkrasnoperov.me](https://vkrasnoperov.me)
 
 # Here some badges for ya
 <div class="badges">
